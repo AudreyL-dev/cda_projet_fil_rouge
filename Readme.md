@@ -48,8 +48,8 @@ git config user.email " Mon Email"
 
 ### Ajouter des checklists
 
--[x] Tâche 1 validée
--[ ] Tache 2 non validée
+- [x] Tâche 1 validée
+- [ ] Tache 2 non validée
 
 ### Arborescence du projet
 
